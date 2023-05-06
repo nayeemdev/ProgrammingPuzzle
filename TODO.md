@@ -12,6 +12,6 @@
         - [x] Make box movable by using transform
         - [x] If hit any edges change the direction
     
-- [ ] Puzzle 3 (MySQL)
-    - [ ] Add main db
-    - [ ] Write SQL queries for the given questions
+- [x] Puzzle 3 (MySQL)
+    - [x] Add main db
+    - [x] Write SQL queries for the given questions
