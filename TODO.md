@@ -5,12 +5,12 @@
     - [x] Implement the interface for making sure that Displayable has displayAsTable method
     - [x] Make a index file to show in browser in different formats
     
-- [ ] Puzzle 2 (HTML/CSS/JS)
-    - [ ] Create HTML page with a square box div
-    - [ ] Add CSS for the box
-    - [ ] Add JS for animation
-        - [ ] Make box movable by using transform
-        - [ ] If hit any edges change the direction
+- [x] Puzzle 2 (HTML/CSS/JS)
+    - [x] Create HTML page with a square box div
+    - [x] Add CSS for the box
+    - [x] Add JS for animation
+        - [x] Make box movable by using transform
+        - [x] If hit any edges change the direction
     
 - [ ] Puzzle 3 (MySQL)
     - [ ] Add main db
