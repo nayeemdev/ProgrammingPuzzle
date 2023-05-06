@@ -1,0 +1,16 @@
+{
+    "name": "nayeemdev/programming-puzzle",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ProgrammingPuzzle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nayeemdev",
+            "email": "nayeem9812@gmail.com"
+        }
+    ],
+    "require": {}
+}
